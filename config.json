@@ -1,0 +1,12 @@
+{
+  "mode": 1,
+  "threads": 3,
+  "register_count": 100,
+  "airdrop_id": "69e46a9f4edb022d0b5a7e1d",
+  "start_delay_min": 5,
+  "start_delay_max": 15,
+  "action_delay_min": 3,
+  "action_delay_max": 10,
+  "account_delay_min": 30,
+  "account_delay_max": 60
+}
